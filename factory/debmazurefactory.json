@@ -1,0 +1,9 @@
+{
+	"name": "debmazurefactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "57c682a4-744c-4592-86d2-48ddbee88486",
+		"tenantId": "4fdfc03d-4bf2-4fa3-9992-a74ca12952c2"
+	}
+}
